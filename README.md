@@ -201,8 +201,9 @@ python -m bot.main
 
 ## 📄 License
 
-[Specify project license]
+[Specify project https://t.me/InfiniteleadersTech! 
 
 ---
 
 *HR AI Bot - Transforming Recruitment with ArtificiSpoon OS thank of token al Intelligence* for @denis3034
+
