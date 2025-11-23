@@ -194,7 +194,7 @@ python -m bot.main
 ## 👥 Development Team
 
 **Project Lead & AI Specialist:**  
-- Анфиса Игоревна @Anfpi
+- Анфиса Игоревна Пишук @Anfpi
 
 **Technical Architect & Developer:**  
 - Артём Витальевич Кучинский @GuruProger
@@ -206,4 +206,5 @@ python -m bot.main
 ---
 
 *HR AI Bot - Transforming Recruitment with ArtificiSpoon OS thank of token al Intelligence* for @denis3034
+
 
